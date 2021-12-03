@@ -1,0 +1,8 @@
+main.c:87:5:main	80	static
+main.c:372:6:SystemClock_Config	88	static
+main.c:418:13:MX_SPI1_Init	8	static
+main.c:456:13:MX_TIM1_Init	32	static
+main.c:502:13:MX_USART2_UART_Init	8	static
+main.c:535:13:MX_GPIO_Init	48	static
+main.c:565:6:LCD_TxBMP	64	static
+main.c:721:6:Error_Handler	4	static,ignoring_inline_asm
